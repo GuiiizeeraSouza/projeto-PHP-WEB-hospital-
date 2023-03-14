@@ -1,0 +1,9 @@
+.container {
+    width: 50%;
+    align-items: center;
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+}
